@@ -1,0 +1,27 @@
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\bin\Debug\prjRodriggoMendesDosSantos.exe
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\bin\Debug\prjRodriggoMendesDosSantos.pdb
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.Properties.Resources.resources
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.csproj.GenerateResource.Cache
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.exe
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.pdb
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_CPF.resources
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.frmRodriggoMendesDosSantos.resources
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_CNPJ.resources
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_CC.resources
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.csprojResolveAssemblyReference.cache
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.exe
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.pdb
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\bin\Debug\prjRodriggoMendesDosSantos.exe
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\bin\Debug\prjRodriggoMendesDosSantos.pdb
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.csprojResolveAssemblyReference.cache
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_CC.resources
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_CNPJ.resources
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_CPF.resources
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.frmRodriggoMendesDosSantos.resources
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.Properties.Resources.resources
+C:\Users\Rod\Downloads\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.csproj.GenerateResource.Cache
+C:\Users\Rod\Estudos\ETEC (ETIM de Informática)\3N\DSO\Atividade Final - Primeira Etapa (Cartão de Crédito, CPF e CNPJ)\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.exe
+C:\Users\Rod\Estudos\ETEC (ETIM de Informática)\3N\DSO\Atividade Final - Primeira Etapa (Cartão de Crédito, CPF e CNPJ)\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.pdb
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_PISPASEP.resources
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_TE.resources
+C:\Users\Rod\Desktop\prjRodriggoMendesDosSantos\prjRodriggoMendesDosSantos\obj\x86\Debug\prjRodriggoMendesDosSantos.forms.frmRodriggoMendesDosSantos_RG.resources

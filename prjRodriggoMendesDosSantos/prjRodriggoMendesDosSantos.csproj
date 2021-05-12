@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4DE3DAA8-B4AE-46E6-B289-1C715810E17F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>prjRodriggoMendesDosSantos</RootNamespace>
+    <AssemblyName>prjRodriggoMendesDosSantos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="forms\classes\clsRodriggoMendesDosSantos_RG.cs" />
+    <Compile Include="forms\classes\clsRodriggoMendesDosSantos_TE.cs" />
+    <Compile Include="forms\classes\clsRodriggoMendesDosSantos_PISPASEP.cs" />
+    <Compile Include="forms\classes\clsRodriggoMendesDosSantos_CNPJ.cs" />
+    <Compile Include="forms\classes\clsRodriggoMendesDosSantos_CPF.cs" />
+    <Compile Include="forms\classes\clsRodriggoMendesDosSantos_CC.cs" />
+    <Compile Include="forms\frmRodriggoMendesDosSantos_RG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_RG.designer.cs">
+      <DependentUpon>frmRodriggoMendesDosSantos_RG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_PISPASEP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_PISPASEP.designer.cs">
+      <DependentUpon>frmRodriggoMendesDosSantos_PISPASEP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_CC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_CC.Designer.cs">
+      <DependentUpon>frmRodriggoMendesDosSantos_CC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_CNPJ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_CNPJ.designer.cs">
+      <DependentUpon>frmRodriggoMendesDosSantos_CNPJ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_CPF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_CPF.designer.cs">
+      <DependentUpon>frmRodriggoMendesDosSantos_CPF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_TE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frmRodriggoMendesDosSantos_TE.designer.cs">
+      <DependentUpon>frmRodriggoMendesDosSantos_TE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRodriggoMendesDosSantos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRodriggoMendesDosSantos.Designer.cs">
+      <DependentUpon>frmRodriggoMendesDosSantos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="forms\frmRodriggoMendesDosSantos_RG.resx">
+      <DependentUpon>frmRodriggoMendesDosSantos_RG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frmRodriggoMendesDosSantos_PISPASEP.resx">
+      <DependentUpon>frmRodriggoMendesDosSantos_PISPASEP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frmRodriggoMendesDosSantos_CC.resx">
+      <DependentUpon>frmRodriggoMendesDosSantos_CC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frmRodriggoMendesDosSantos_CNPJ.resx">
+      <DependentUpon>frmRodriggoMendesDosSantos_CNPJ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frmRodriggoMendesDosSantos_CPF.resx">
+      <DependentUpon>frmRodriggoMendesDosSantos_CPF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frmRodriggoMendesDosSantos_TE.resx">
+      <DependentUpon>frmRodriggoMendesDosSantos_TE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRodriggoMendesDosSantos.resx">
+      <DependentUpon>frmRodriggoMendesDosSantos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burguer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamburger_50934.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newidols.ru-Shop-Credit-card.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Mimetypes-x-office-contact.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iconsmind-Outline-ID-Card.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galaxy10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Double-J-Design-Ravenna-3d-V-Card.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inipagi-Job-Seeker-Id-card.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Ios7-Messaging-Contact-Card.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
